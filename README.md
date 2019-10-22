@@ -1,2 +1,3 @@
-# techdegree-project-3
- Front End Web Dev
+# techdegree-project-1
+
+Front End Web Dev
